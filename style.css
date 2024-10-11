@@ -35,13 +35,13 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
+    background-color: #ffffff;
     color: #555555;
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
-    color: #ffffff;
+    background-color: #CDEFF7;
+    color: black;
 }
 
 .card {
@@ -54,12 +54,12 @@ a {
 }
 
 .bg-3 {
-    background-color: #000000; /* Black */
-    color: #ffffff;
+    background-color: #BCD9F7;
+    color: black;
 }
 
 .bg-4 {
-    background-color: #343a40; /* Dark Gray */
+    background-color: #A1C4FA;
     color: #fff;
 }
 
